@@ -1,0 +1,9 @@
+W     W      III      PPPP   
+W     W       I       P   P  
+W     W       I       P   P  
+W     W       I       P   P  
+W     W       I       PPPP   
+W  W  W       I       P      
+W W W W       I       P      
+WW   WW  ..   I   ..  P      
+W     W  ..  III  ..  P  
